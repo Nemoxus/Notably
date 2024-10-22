@@ -1,8 +1,13 @@
-# React + Vite
+---
+# Notably: Your Personal Note-taking & Life Assistant
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Notably** is more than just a note-taking app. It’s your personalized, lightweight assistant for managing tasks and staying informed about life's key moments.
 
-Currently, two official plugins are available:
+### Key Features:
+- 📝 **To-Do List**: Keep track of your tasks effortlessly.
+- 📅 **Widgets**: Get real-time insights into inevitable aspects of daily life.
+- 🎯 **Simple & Intuitive**: Designed for ease of use and productivity.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Stay organized, stay informed—**Notably** has you covered!
+
+--- 
