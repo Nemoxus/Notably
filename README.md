@@ -1,4 +1,3 @@
----
 # Notably: Your Personal Note-taking & Life Assistant
 
 **Notably** is more than just a note-taking app. It’s your personalized, lightweight assistant for managing tasks and staying informed about life's key moments.
@@ -10,4 +9,3 @@
 
 Stay organized, stay informed—**Notably** has you covered!
 
---- 
