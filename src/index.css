@@ -431,3 +431,15 @@
   background-color: #ff0000;
 }
 
+.circle {
+  --circle-size: 25px;
+  position: fixed;
+  width: var(--circle-size);
+  height: var(--circle-size);
+  border: 3px solid #4943b8d7;
+  border-radius: 100%;
+  top: calc(var(--circle-size)/ 2 * -1);
+  left: calc(var(--circle-size)/ 2 * -1);
+  pointer-events: none;
+  z-index: 9999;
+}

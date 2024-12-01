@@ -4,6 +4,7 @@ import AnalogClock from "./AnalogClock.jsx";
 import IdleClicker from "./IdleClicker.jsx";
 import AuthPopup from "./AuthPopup.jsx";
 import Loader from './Loader.jsx';
+import CursorFollower from './CursorFollower.jsx'; // Import the new CursorFollower component
 import icon from './assets/icon.png';
 
 function App() {
@@ -36,6 +37,9 @@ function App() {
 
   return (
     <div>
+      {/* Add CursorFollower here */}
+      <CursorFollower />
+
       {showLoader ? (
         // Display the loader component if showLoader is true
         <Loader />
